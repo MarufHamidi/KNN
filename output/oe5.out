@@ -1,0 +1,10 @@
+Deciding by euclidean distance 
+Total train doc : 6518
+Total test doc : 2572
+Key, K = 5
+=================================================
+=================================================
+===================Summary=======================
+Total : 2572
+Misclassified : 1265
+Accuracy : 49.183514774494554% 
